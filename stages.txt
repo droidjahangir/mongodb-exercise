@@ -16,3 +16,4 @@ $group vs $project
   group: sum, count, average
   project: Include/Exclude fields. Transform fields ( within a single document )
   
+Group marges multiple document into one, on the other hand unwind takes one document and spllites multiple document. 
